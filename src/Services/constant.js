@@ -1,0 +1,2 @@
+export const SAVELOGIN = "SAVELOGIN";
+export const SAVEPROFILE = "SAVEPROFILE";
